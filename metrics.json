@@ -1,0 +1,17 @@
+{
+  "accuracy": 0.6,
+  "roc_auc": 0.7098,
+  "cv_roc_auc": 0.7337,
+  "decision_threshold": 0.45,
+  "best_params": {
+    "subsample": 0.7,
+    "n_estimators": 100,
+    "min_child_weight": 3,
+    "max_depth": 2,
+    "learning_rate": 0.08,
+    "gamma": 0.3,
+    "colsample_bytree": 0.8
+  },
+  "n_train": 800,
+  "n_test": 200
+}

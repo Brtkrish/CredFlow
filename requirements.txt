@@ -1,0 +1,12 @@
+fastapi
+uvicorn[standard]
+pydantic
+scikit-learn
+xgboost
+shap
+pandas
+numpy
+joblib
+streamlit
+openai
+langgraph
